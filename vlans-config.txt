@@ -4,3 +4,5 @@ vlan 20
  name voice
 vlan 30
  name servers
+vlan 40
+ name printers
