@@ -1,2 +1,5 @@
 vlan 60
  name wifi
+
+vlan 80
+ name test
