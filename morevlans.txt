@@ -8,3 +8,5 @@ name datacenter
 vlan 80
  name test
 
+vlan 90
+ name stealth
