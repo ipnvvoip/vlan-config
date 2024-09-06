@@ -1,2 +1,6 @@
+
 vlan 60
  name wifi
+vlan 70 
+name datacenter
+
