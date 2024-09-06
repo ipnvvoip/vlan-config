@@ -1,0 +1,2 @@
+vlan 60
+ name wifi
